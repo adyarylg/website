@@ -1,0 +1,31 @@
+{
+    "sections": [
+        {
+            "title": "Haircut & Styling",
+            "description": "Our expert stylists are trained in the latest techniques to create a look that perfectly complements your style and personality.",
+            "services": [
+                { "name": "Haircut by Senior Stylist", "price": "999" },
+                { "name": "Haircut by Hair Expert", "price": "1449" },
+                { "name": "Creative Cut (Bob/Asymmetric)", "price": "1449" },
+                { "name": "Kids Hair Cut", "price": "349" }
+            ]
+        },
+        {
+            "title": "Hair Colour by L'Oréal & Schwarzkopf",
+            "description": "Refresh your look with our range of professional colouring services, including gentle, ammonia-free options.",
+            "services": [
+                { "name": "French Balayage", "price": "5299 onwards" },
+                { "name": "INOA Global Colour (Ammonia-Free)", "price": "2899 onwards" },
+                { "name": "Majirel Root Touch up", "price": "1499" }
+            ]
+        },
+        {
+            "title": "Advanced Hair Treatments",
+            "description": "Repair, restore, and rejuvenate your hair with our advanced solutions. Our Botoplexx treatment is a revolutionary protein service that restores life and shine.",
+            "services": [
+                { "name": "Botoplexx Treatment", "price": "5999" },
+                { "name": "Xtenso Permanent Smoothening", "price": "6999" }
+            ]
+        }
+    ]
+}

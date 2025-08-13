@@ -1,0 +1,18 @@
+{
+    "total_reviews": 123,
+    "average_rating": 4.7,
+    "reviews": [
+        {
+            "reviewer": { "displayName": "John Doe" },
+            "starRating": 5,
+            "comment": "Amazing service!",
+            "createTime": "2025-08-11T10:15:00Z"
+        },
+        {
+            "reviewer": { "displayName": "Jane Smith" },
+            "starRating": 5,
+            "comment": "Loved the experience.",
+            "createTime": "2025-08-10T08:30:00Z"
+        }
+    ]
+}
