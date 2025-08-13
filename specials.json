@@ -1,0 +1,17 @@
+{
+    "Tuesday": {
+        "title": "Terrific Tuesday Hair Offer",
+        "description": "Transform your look! Get a fabulous 50% OFF on premium Haircuts & rejuvenating Hair Spas when you spend ₹1500 or more.",
+        "image": "images/Hair-offer.jpg"
+    },
+    "Wednesday": {
+        "title": "Wonderful Wednesday Botox",
+        "description": "Turn back time on frizz! Experience our revolutionary Botoplexx hair treatment at an incredible 50% OFF the MRP.",
+        "image": "images/wednesday-offer.jpg"
+    },
+    "Thursday": {
+        "title": "Flawless Skin Thursday",
+        "description": "Indulge in pure luxury and reveal your inner glow. Enjoy a flat 50% OFF on all our Premium & Luxury Facials.",
+        "image": "images/thursday-offer.jpg"
+    }
+}
